@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Events Mushroom</string>
+    <string name="login">Login</string>
+    <string name="senha">Password</string>
+    <string name="quemsomos">About Us</string>
+    <string name="descricao1">We produce events, artists, and local brands, offering intelligent solutions for the artistic, digital and audiovisual market in Recife.</string>
+    <string name="descricao2">Cultural production and intelligent solutions for the public that wants to experience and be part of the center of Recife.</string>
+    <string name="orcamento">Budget</string>
+    <string name="nomecompleto">Full name</string>
+    <string name="email">E-mail</string>
+    <string name="projeto">Submit your project</string>
+    <string name="enviar">Send</string>
+
+</resources>

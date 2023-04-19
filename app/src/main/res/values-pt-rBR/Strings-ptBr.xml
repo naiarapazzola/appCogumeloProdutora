@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cogumelo Produtora</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="quemsomos">Sobre nós</string>
+    <string name="descricao1">Produzimos eventos, artistas, e marcas locais, oferecendo soluções inteligentes para o mercado artístico, digital e audiovisual recifense.</string>
+    <string name="descricao2">Produção cultural e soluções inteligentes para o público que deseja vivenciar e fazer parte do centro do Recife.</string>
+    <string name="orcamento">Orçamento</string>
+    <string name="nomecompleto">Nome Completo</string>
+    <string name="email">E-mail</string>
+    <string name="projeto">Envie seu projeto.</string>
+    <string name="enviar">Enviar</string>
+</resources>
